@@ -26,7 +26,7 @@ SO THAT our site is optimized for search engines
 * HTML heading attributes in sequential order
 * HTML title element is concise and descriptive
 
-https://github.com/alviszheng/code-refactor/blob/assets/Deployed site screenshot.png
+<img src= "https://github.com/alviszheng/code-refactor/blob/assets/deployed_site_screenshot.png"></img>
 
 
 Github repository URL: https://github.com/alviszheng/code-refactor
