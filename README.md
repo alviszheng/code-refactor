@@ -18,14 +18,14 @@ SO THAT our site is optimized for search engines
 
 ## Objective
 
-```
-Meet accessibility standards
-Semantic HTML elements
-The elements follow a logical structure independent of styling and positioning
-Accessibility and alt attributes
-Heading attributes in sequential order
-Title element is concise, descriptive title
-```
+
+* Webpage meets accessibility standards
+* HTML code follows semantic HTML elements
+* HTML elements follow a logical structure independent of styling and positioning
+* HTML code use alt attributes for accessibility
+* HTML heading attributes in sequential order
+* HTML title element is concise and descriptive
+
 
 ## Review
 
