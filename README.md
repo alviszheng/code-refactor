@@ -23,7 +23,7 @@ One of the most common tasks for front-end and junior developers is to take exis
 
 ## Support
 
-Contact <a href="mailto:alviszheng@hotmail"> alviszheng@hotmail.com /a> if you need anything
+Contact <a href="mailto:alviszheng@hotmail"> alviszheng@hotmail.com </a> if you need anything
 
 
 
