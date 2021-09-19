@@ -13,14 +13,17 @@ One of the most common tasks for front-end and junior developers is to take exis
 * HTML heading attributes in sequential order
 * HTML title element is concise and descriptive
 
+## Description
+
 
 ## Github deployment
 
 * Github repository URL: https://github.com/alviszheng/code-refactor
 * Github page URL: https://alviszheng.github.io/code-refactor/
 
+## Support
 
-
+Contact <a href="mailto:alviszheng@hotmail"> alviszheng@hotmail.com /a> if you need anything
 
 
 
