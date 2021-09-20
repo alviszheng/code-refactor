@@ -45,20 +45,4 @@ One of the most common tasks for front-end and junior developers is to take exis
 
 ## Support
 
-Contact <a href="mailto:alviszheng@hotmail"> alviszheng@hotmail.com </a> if you need anything
-
-
-
-
-
-## Review
-
-You are required to submit the following for review:
-
-* The URL of the deployed application.
-
-* The URL of the GitHub repository. Give the repository a unique name and include a professional README describing the project.
-
-- - -
-© 2021 Trilogy Education Services, LLC, a 2U, Inc. brand. Confidential and Proprietary. All Rights Reserved.
-'
+Please ontact <a href="mailto:alviszheng@hotmail"> alviszheng@hotmail.com </a> if you have any questions.
