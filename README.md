@@ -18,24 +18,24 @@ One of the most common tasks for front-end and junior developers is to take exis
 ### HTML codebase refactoring
 
 * Restructure html following semantic rule
-** <Header>
-** <Content>
-** <Aside>
-** <Footer>
-* Comments with html structure using <!—comments here—>
+    * < Header >
+    * < Content >
+    * < Aside >
+    * < Footer >
+* Comments illustration of html structure using <!—comments here—>
 * Using alt attribute for webpage assessiblity
 * Redefine html attributes class vs id
 
 ### CSS codebase refactoring
 
 * Consolidating CSS selectors and properties
-**  CSS TABLE OF CONTENTS
-** 1.0 - Globals, universal selector
-** 2.0 - Header
-** 3.0 - Body
-**        3.1 - Content(without aside content)
-**        3.2 - Aside content
-** 4.0 - Footer
+    * CSS TABLE OF CONTENTS
+    * 1.0 - Globals, universal selector
+    * 2.0 - Header
+    * 3.0 - Body
+        * 3.1 - Content(without aside content)
+        * 3.2 - Aside content
+    * 4.0 - Footer
 * Rearrange the selectors and properties to follow the semantic structure of HTML
 
 ## Github deployment
@@ -61,3 +61,4 @@ You are required to submit the following for review:
 
 - - -
 © 2021 Trilogy Education Services, LLC, a 2U, Inc. brand. Confidential and Proprietary. All Rights Reserved.
+'
